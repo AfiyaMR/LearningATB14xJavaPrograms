@@ -7,7 +7,7 @@ public class Lab001_HelloWorld
 
     {
         System.out.println("Hello World!!");
-        System.out.print("Hi");
+
     }
 
 }
